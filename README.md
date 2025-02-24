@@ -21,9 +21,6 @@ A politically charged punk and alternative playlist for those who crave revoluti
 ## 🎸 About the Playlist
 This playlist is a mix of classic punk anthems and modern alternative tracks that stand for rebellion, resistance, and revolution. Whether you're fighting oppression, standing up for your rights, or just looking for music with a message, these tracks will keep you inspired.
 
-## 🎧 How to Listen
-🎵 **Stream on Apple Music**: [Revolution & Rebellion](https://music.apple.com/us/playlist/revolution-and-rebellion/pl.u-b3b8RKgCyMYaWz)
-
 ## 🎧 How to Import to Apple Music
 1. Download the `Revolution_and_Rebellion.xml` file.
 2. Open Apple Music.

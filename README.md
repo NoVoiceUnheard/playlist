@@ -34,11 +34,11 @@ This playlist is a mix of classic punk anthems and modern alternative tracks tha
 2. Navigate to the directory where you want to clone the repository.
 3. Run the following command to clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/NoVoiceUnheard/playlist.git
    ```
 4. Change into the repository directory:
    ```sh
-   cd <repository-name>
+   cd playlist
    ```
 
 ### Committing Changes to the Repository

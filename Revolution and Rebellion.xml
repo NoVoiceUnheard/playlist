@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-02-24T21:55:12Z</date>
+	<key>Application Version</key><string>1.5.2.56</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Library Persistent ID</key><string>F95824B13A1355F6</string>
+	<key>Tracks</key>
+	<dict>
+		<key>4883</key>
+		<dict>
+			<key>Track ID</key><integer>4883</integer>
+			<key>Name</key><string>We're Not Gonna Take It</string>
+			<key>Artist</key><string>Twisted Sister</string>
+			<key>Album Artist</key><string>Twisted Sister</string>
+			<key>Composer</key><string>Dee Snider</string>
+			<key>Album</key><string>Stay Hungry</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8334861</integer>
+			<key>Total Time</key><integer>219866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2024-06-09T23:48:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3823250063</integer>
+			<key>Play Date UTC</key><date>2025-02-24T21:54:23Z</date>
+			<key>Release Date</key><date>1984-04-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stay Hungry</string>
+			<key>Sort Artist</key><string>Twisted Sister</string>
+			<key>Sort Name</key><string>We're Not Gonna Take It</string>
+			<key>Persistent ID</key><string>FEB96D747FCF3411</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>11102</key>
+		<dict>
+			<key>Track ID</key><integer>11102</integer>
+			<key>Name</key><string>Know Your Rights (Remastered)</string>
+			<key>Artist</key><string>The Clash</string>
+			<key>Album Artist</key><string>The Clash</string>
+			<key>Composer</key><string>Joe Strummer, Paul Simonon, Topper Headon &#38; Mick Jones</string>
+			<key>Album</key><string>Sound System</string>
+			<key>Grouping</key><string>Combat Rock</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7882459</integer>
+			<key>Total Time</key><integer>220076</integer>
+			<key>Disc Number</key><integer>5</integer>
+			<key>Disc Count</key><integer>11</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2025-02-24T21:05:37Z</date>
+			<key>Date Added</key><date>2025-02-24T21:05:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3823247597</integer>
+			<key>Play Date UTC</key><date>2025-02-24T21:13:17Z</date>
+			<key>Release Date</key><date>1982-04-23T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sound System</string>
+			<key>Sort Album Artist</key><string>Clash</string>
+			<key>Sort Artist</key><string>Clash</string>
+			<key>Sort Name</key><string>Know Your Rights (Remastered)</string>
+			<key>Persistent ID</key><string>7F0CD0FCD4CB2E9A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>11118</key>
+		<dict>
+			<key>Track ID</key><integer>11118</integer>
+			<key>Name</key><string>Killing In the Name</string>
+			<key>Artist</key><string>Rage Against the Machine</string>
+			<key>Album Artist</key><string>Rage Against the Machine</string>
+			<key>Composer</key><string>Rage Against the Machine</string>
+			<key>Album</key><string>Rage Against the Machine</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12096879</integer>
+			<key>Total Time</key><integer>313936</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2025-02-24T21:06:17Z</date>
+			<key>Date Added</key><date>2025-02-24T21:06:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3823247928</integer>
+			<key>Play Date UTC</key><date>2025-02-24T21:18:48Z</date>
+			<key>Release Date</key><date>1992-11-02T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rage Against the Machine</string>
+			<key>Sort Artist</key><string>Rage Against the Machine</string>
+			<key>Sort Name</key><string>Killing In the Name</string>
+			<key>Persistent ID</key><string>B785334420938D8C</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>11128</key>
+		<dict>
+			<key>Track ID</key><integer>11128</integer>
+			<key>Name</key><string>Holiday</string>
+			<key>Artist</key><string>Green Day</string>
+			<key>Album Artist</key><string>Green Day</string>
+			<key>Composer</key><string>Billie Joe Armstrong, Mike Dirnt &#38; Tré Cool</string>
+			<key>Album</key><string>American Idiot</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8769099</integer>
+			<key>Total Time</key><integer>232826</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2025-02-24T21:06:35Z</date>
+			<key>Date Added</key><date>2025-02-24T21:06:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3823248196</integer>
+			<key>Play Date UTC</key><date>2025-02-24T21:23:16Z</date>
+			<key>Release Date</key><date>2004-09-21T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Idiot</string>
+			<key>Sort Artist</key><string>Green Day</string>
+			<key>Sort Name</key><string>Holiday</string>
+			<key>Persistent ID</key><string>CA0966630CCEC8BF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>11140</key>
+		<dict>
+			<key>Track ID</key><integer>11140</integer>
+			<key>Name</key><string>Rise Above</string>
+			<key>Artist</key><string>Black Flag</string>
+			<key>Album Artist</key><string>Black Flag</string>
+			<key>Composer</key><string>Greg Ginn</string>
+			<key>Album</key><string>Damaged</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5835733</integer>
+			<key>Total Time</key><integer>146556</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2025-02-24T21:07:02Z</date>
+			<key>Date Added</key><date>2025-02-24T21:07:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3823248343</integer>
+			<key>Play Date UTC</key><date>2025-02-24T21:25:43Z</date>
+			<key>Release Date</key><date>1981-12-05T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Damaged</string>
+			<key>Sort Artist</key><string>Black Flag</string>
+			<key>Sort Name</key><string>Rise Above</string>
+			<key>Persistent ID</key><string>0967D3A7CB69CF9E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>11150</key>
+		<dict>
+			<key>Track ID</key><integer>11150</integer>
+			<key>Name</key><string>Sound of da Police</string>
+			<key>Artist</key><string>KRS-One</string>
+			<key>Album Artist</key><string>KRS-One</string>
+			<key>Composer</key><string>Lawrence Parker &#38; Rodney Lemay</string>
+			<key>Album</key><string>Return of the Boom Bap</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9056538</integer>
+			<key>Total Time</key><integer>258436</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2025-02-24T21:07:16Z</date>
+			<key>Date Added</key><date>2025-02-24T21:07:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3823248601</integer>
+			<key>Play Date UTC</key><date>2025-02-24T21:30:01Z</date>
+			<key>Release Date</key><date>1990-01-01T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Return of the Boom Bap</string>
+			<key>Sort Artist</key><string>KRS-One</string>
+			<key>Sort Name</key><string>Sound of da Police</string>
+			<key>Persistent ID</key><string>87046B1FF796EA63</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>11160</key>
+		<dict>
+			<key>Track ID</key><integer>11160</integer>
+			<key>Name</key><string>Fight The Power</string>
+			<key>Artist</key><string>Public Enemy</string>
+			<key>Album Artist</key><string>Public Enemy</string>
+			<key>Composer</key><string>Carlton Ridenhour, Eric Sadler &#38; Keith Shocklee</string>
+			<key>Album</key><string>Power To The People And The Beats - Public Enemy's Greatest Hits</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10628348</integer>
+			<key>Total Time</key><integer>276813</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2025-02-24T21:07:28Z</date>
+			<key>Date Added</key><date>2025-02-24T21:07:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3823248878</integer>
+			<key>Play Date UTC</key><date>2025-02-24T21:34:38Z</date>
+			<key>Release Date</key><date>1989-05-26T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Power To The People And The Beats - Public Enemy's Greatest Hits</string>
+			<key>Sort Artist</key><string>Public Enemy</string>
+			<key>Sort Name</key><string>Fight The Power</string>
+			<key>Persistent ID</key><string>5256C063FF7880DD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>11169</key>
+		<dict>
+			<key>Track ID</key><integer>11169</integer>
+			<key>Name</key><string>White Riot (2013 Remastered)</string>
+			<key>Artist</key><string>The Clash</string>
+			<key>Album Artist</key><string>The Clash</string>
+			<key>Composer</key><string>Joe Strummer, Michael Jones, Paul Simonon &#38; Topper Headon</string>
+			<key>Album</key><string>The Clash (2013 Remastered)</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4395775</integer>
+			<key>Total Time</key><integer>116383</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2025-02-24T21:07:41Z</date>
+			<key>Date Added</key><date>2025-02-24T21:07:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3823248994</integer>
+			<key>Play Date UTC</key><date>2025-02-24T21:36:34Z</date>
+			<key>Release Date</key><date>1977-03-18T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Clash (2013 Remastered)</string>
+			<key>Sort Album Artist</key><string>Clash</string>
+			<key>Sort Artist</key><string>Clash</string>
+			<key>Sort Name</key><string>White Riot (2013 Remastered)</string>
+			<key>Persistent ID</key><string>3E36BE4A6D69079E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>11178</key>
+		<dict>
+			<key>Track ID</key><integer>11178</integer>
+			<key>Name</key><string>Anarchy In the U.K.</string>
+			<key>Artist</key><string>Sex Pistols</string>
+			<key>Album Artist</key><string>Sex Pistols</string>
+			<key>Composer</key><string>Cook, Glen Matlock, JONES, Johnny Rotten, Matlock, Paul Cook, Rotten &#38; Steve Jones</string>
+			<key>Album</key><string>Never Mind the Bollocks, Here's the Sex Pistols</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7699181</integer>
+			<key>Total Time</key><integer>211973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2025-02-24T21:07:53Z</date>
+			<key>Date Added</key><date>2025-02-24T21:07:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3823249206</integer>
+			<key>Play Date UTC</key><date>2025-02-24T21:40:06Z</date>
+			<key>Release Date</key><date>1977-10-01T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Never Mind the Bollocks, Here's the Sex Pistols</string>
+			<key>Sort Artist</key><string>Sex Pistols</string>
+			<key>Sort Name</key><string>Anarchy In the U.K.</string>
+			<key>Persistent ID</key><string>5FAA58E455ECE7DC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>11187</key>
+		<dict>
+			<key>Track ID</key><integer>11187</integer>
+			<key>Name</key><string>Testify</string>
+			<key>Artist</key><string>Rage Against the Machine</string>
+			<key>Album Artist</key><string>Rage Against the Machine</string>
+			<key>Composer</key><string>Tim Commerford, Zack de la Rocha, Tom Morello &#38; Brad Wilk</string>
+			<key>Album</key><string>The Battle of Los Angeles</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7732959</integer>
+			<key>Total Time</key><integer>210133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2025-02-24T21:08:03Z</date>
+			<key>Date Added</key><date>2025-02-24T21:08:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3823249417</integer>
+			<key>Play Date UTC</key><date>2025-02-24T21:43:37Z</date>
+			<key>Release Date</key><date>1999-11-02T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Battle of Los Angeles</string>
+			<key>Sort Artist</key><string>Rage Against the Machine</string>
+			<key>Sort Name</key><string>Testify</string>
+			<key>Persistent ID</key><string>199938703E34E9AB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>11195</key>
+		<dict>
+			<key>Track ID</key><integer>11195</integer>
+			<key>Name</key><string>American Jesus</string>
+			<key>Artist</key><string>Bad Religion</string>
+			<key>Album Artist</key><string>Bad Religion</string>
+			<key>Composer</key><string>Greg Graffin &#38; Brett Gurewitz</string>
+			<key>Album</key><string>Recipe for Hate</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7083640</integer>
+			<key>Total Time</key><integer>197667</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2025-02-24T21:08:18Z</date>
+			<key>Date Added</key><date>2025-02-24T21:08:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3823249614</integer>
+			<key>Play Date UTC</key><date>2025-02-24T21:46:54Z</date>
+			<key>Release Date</key><date>1993-06-04T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Recipe for Hate</string>
+			<key>Sort Artist</key><string>Bad Religion</string>
+			<key>Sort Name</key><string>American Jesus</string>
+			<key>Persistent ID</key><string>DF70D1A24179D99D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>11204</key>
+		<dict>
+			<key>Track ID</key><integer>11204</integer>
+			<key>Name</key><string>Clampdown</string>
+			<key>Artist</key><string>The Clash</string>
+			<key>Album Artist</key><string>The Clash</string>
+			<key>Composer</key><string>Joe Strummer, Mick Jones, Paul Simonon &#38; Topper Headon</string>
+			<key>Album</key><string>London Calling</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8643769</integer>
+			<key>Total Time</key><integer>229110</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2025-02-24T21:08:30Z</date>
+			<key>Date Added</key><date>2025-02-24T21:08:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3823249843</integer>
+			<key>Play Date UTC</key><date>2025-02-24T21:50:43Z</date>
+			<key>Release Date</key><date>1979-12-14T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>London Calling</string>
+			<key>Sort Album Artist</key><string>Clash</string>
+			<key>Sort Artist</key><string>Clash</string>
+			<key>Sort Name</key><string>Clampdown</string>
+			<key>Persistent ID</key><string>2DE92D26F28C2E3C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>11217</key>
+		<dict>
+			<key>Track ID</key><integer>11217</integer>
+			<key>Name</key><string>The Times They Are A-Changin'</string>
+			<key>Artist</key><string>Bob Dylan</string>
+			<key>Album Artist</key><string>Bob Dylan</string>
+			<key>Composer</key><string>Bob Dylan</string>
+			<key>Album</key><string>The Times They Are A-Changin'</string>
+			<key>Genre</key><string>Contemporary Folk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6881994</integer>
+			<key>Total Time</key><integer>197020</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1964</integer>
+			<key>Date Modified</key><date>2025-02-24T21:08:53Z</date>
+			<key>Date Added</key><date>2025-02-24T21:08:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1964-02-10T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Times They Are A-Changin'</string>
+			<key>Sort Artist</key><string>Bob Dylan</string>
+			<key>Sort Name</key><string>Times They Are A-Changin'</string>
+			<key>Persistent ID</key><string>A6FF5AC38F2D1604</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>11226</key>
+		<dict>
+			<key>Track ID</key><integer>11226</integer>
+			<key>Name</key><string>Waiting Room</string>
+			<key>Artist</key><string>Fugazi</string>
+			<key>Album Artist</key><string>Fugazi</string>
+			<key>Album</key><string>13 Songs</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6688334</integer>
+			<key>Total Time</key><integer>173267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2025-02-24T21:09:09Z</date>
+			<key>Date Added</key><date>2025-02-24T21:09:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1989-09-01T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>13 Songs</string>
+			<key>Sort Artist</key><string>Fugazi</string>
+			<key>Sort Name</key><string>Waiting Room</string>
+			<key>Persistent ID</key><string>724B54FB7219C889</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Revolution and Rebellion</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>11105</integer>
+			<key>Playlist Persistent ID</key><string>3C7BF707AD8ACEB1</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>11102</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11118</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11140</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11150</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11160</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11178</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11204</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4883</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11226</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
